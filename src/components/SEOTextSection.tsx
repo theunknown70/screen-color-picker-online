@@ -9,7 +9,7 @@ const SEOTextSection: React.FC<SEOTextSectionProps> = ({ sx }) => {
   return (
     <Box sx={sx}>
       <Typography variant="h5" component="h2" gutterBottom>
-        About Our Online Color Picker Tool
+        About Our Screen Color Picker Online Tool
       </Typography>
       <Typography variant="body1" paragraph>
         Our color picker uses the latest EyeDropper API to get the HEX-Code (and other formats like RGB, HSL, CMYK) of any color on your screen without downloading or installing any software. Finally, it’s easy for web designers, artists, and developers to pick brand colors, identify colors from images, or select any pixel color on their monitor and use the exact color code in their HTML code, CSS, Adobe Project, PDF design, or any creative work. It's a fast, free, and efficient web-based eyedropper tool.
